@@ -36,3 +36,7 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
+
+# Files part of onboarding process that should be excluded
+.devcontainer/Dockerfile
+.devcontainer/devcontainer.json
